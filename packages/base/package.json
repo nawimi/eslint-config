@@ -1,0 +1,17 @@
+{
+  "name": "@nawimi/eslint-config-base",
+  "packageManager": "yarn@3.2.1",
+  "version": "1.0.0",
+  "dependencies": {
+    "eslint-import-resolver-node": "^0.3.6",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsdoc": "^39.3.6"
+  },
+  "peerDependencies": {
+    "eslint": "^8.24.0"
+  },
+  "volta": {
+    "node": "14.19.1",
+    "yarn": "1.22.10"
+  }
+}

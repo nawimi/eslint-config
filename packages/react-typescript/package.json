@@ -1,0 +1,17 @@
+{
+  "name": "@nawimi/eslint-config-react-typescript",
+  "packageManager": "yarn@3.2.1",
+  "version": "1.0.0",
+  "dependencies": {
+    "@nawimi/eslint-config-react": "^1.0.0",
+    "@nawimi/eslint-config-typescript": "^1.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.24.0",
+    "typescript": "^4.8.4"
+  },
+  "volta": {
+    "node": "14.19.1",
+    "yarn": "1.22.10"
+  }
+}
